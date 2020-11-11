@@ -1,0 +1,56 @@
+
+Enter a frame number, or 0 to exit   
+
+1: source("C:/Users/mm270/OneDrive/Escritorio/EvenSumu20b/AnálisisEstadístico.R", encoding = "UTF
+2: withVisible(eval(ei, envir))
+3: eval(ei, envir)
+4: eval(ei, envir)
+5: AnálisisEstadístico.R#4: subset(grafET, long == c("100", "200", "500"))
+
+
+No suitable frames for recover()
+    media4Null mediaET4A mediaET4B media8Null mediaET8A mediaET8B media12Null mediaET12A
+30        0.05      0.27      0.26       0.05      0.17      0.16          NA         NA
+40        0.05      0.27      0.25       0.05      0.17      0.16          NA         NA
+50        0.05      0.26      0.24       0.05      0.17      0.16          NA         NA
+100       0.05      0.25      0.22       0.04      0.15      0.16        0.05       0.12
+200       0.05      0.23      0.22       0.05      0.15      0.16        0.04       0.12
+500       0.05      0.23      0.29       0.05      0.15      0.13        0.05       0.12
+    mediaET12B
+30          NA
+40          NA
+50          NA
+100       0.12
+200       0.12
+500       0.12
+    mediaECS4A mediaECS4B mediaECS8A mediaECS8B mediaECS12A mediaECS12B
+30        0.05       0.02       0.01          0          NA          NA
+40        0.05       0.01       0.01          0          NA          NA
+50        0.04       0.01       0.01          0          NA          NA
+100       0.02       0.00       0.00          0           0           0
+200       0.01       0.00       0.00          0           0           0
+500       0.00       0.00       0.00          0           0           0
+    mediaEFS4A mediaEFS4B mediaEFS8A mediaEFS8B mediaEFS12A mediaEFS12B
+30        0.18       0.18       0.11       0.11          NA          NA
+40        0.18       0.18       0.11       0.11          NA          NA
+50        0.18       0.16       0.11       0.11          NA          NA
+100       0.17       0.12       0.11       0.11        0.08        0.08
+200       0.15       0.08       0.10       0.10        0.08        0.08
+500       0.11       0.06       0.09       0.05        0.07        0.07
+    mediaEFNS4A mediaEFNS4B mediaEFNS8A mediaEFNS8B mediaEFNS12A mediaEFNS12B
+30         0.04        0.05        0.05        0.05           NA           NA
+40         0.04        0.06        0.05        0.05           NA           NA
+50         0.04        0.07        0.05        0.05           NA           NA
+100        0.05        0.10        0.04        0.05         0.05         0.05
+200        0.07        0.16        0.05        0.06         0.04         0.04
+500        0.12        0.28        0.06        0.09         0.05         0.05
+$`1`
+
+$`2`
+
+$`3`
+
+$`4`
+
+attr(,"class")
+[1] "list"      "ggarrange"
